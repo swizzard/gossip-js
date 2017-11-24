@@ -1,0 +1,19 @@
+{
+  "name": "gossip",
+  "version": "0.0.1",
+  "description": "procedurally-generated gossip",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node main.js"
+  },
+  "author": "sam raker",
+  "license": "WTFPL",
+  "dependencies": {
+    "corpora-project": "^0.2.0",
+    "js-st": "^0.1.2",
+    "lodash": "^4.17.4",
+    "luxon": "0.0.20",
+    "tracery-grammar": "^2.7.3"
+  }
+}
